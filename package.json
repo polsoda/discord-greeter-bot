@@ -1,13 +1,12 @@
 {
-  "name": "greeter-bot",
+  "name": "northern-lights",
   "version": "1.0.0",
-  "description": "Greeter bot for Renesansz-Playground",
+  "description": "Can you hear me?",
   "main": "bot.js",
-  "repository": "git@github.com:renesansz/discord-greeter-bot.git",
-  "author": "Renemari Padillo",
+  "author": "Sol P.",
   "license": "MIT",
   "dependencies": {
-    "discord.io": "github:woor/discord.io#gateway_v6",
-    "winston": "^2.3.1"
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "winston": "^2.4.4"
   }
 }
